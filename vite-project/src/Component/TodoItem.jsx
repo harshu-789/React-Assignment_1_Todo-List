@@ -7,7 +7,7 @@ function TodoItem({todo,onEdit,onDelete, onToggle}) {
   const handleEdit = () => {
     if (editedText.trim()) {
       onEdit(todo.id, editedText.trim());
-      setIsEditing(false); // ✅ Exit edit mode after saving
+      setIsEditing(false); 
     }
   };
 
