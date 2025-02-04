@@ -25,7 +25,7 @@ A simple Todo List application built with React and Vite that allows users to ma
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone [https://github.com/harshu-789/React-Assignment_1_Todo-List/tree/main]
 ```
 
 2. Install dependencies
